@@ -32,7 +32,8 @@ li{
 
 .logo{
     
-    float: initial;
+    float: left;
+    margin: left 20%; 
     
 }
 span{
@@ -133,11 +134,19 @@ button{
     padding: 10px;
     border-radius: 10px;
     width: 250px;
-    height: 300px;
+    height: 350px;
     border: solid 1px maroon;
     margin-left: 50px;
     background-color: #F7FCF6;
 }
 h2{
     color: tomato;
+}
+.menu2{
+    margin-left: 20px;
+    margin-top: 50px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
 }
