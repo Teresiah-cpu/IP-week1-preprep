@@ -10,6 +10,7 @@
     justify-content: center;
     flex-direction: row;
     
+    
 
     
 }
@@ -36,7 +37,9 @@ li{
 .logo{
     
     float: left;
-    margin: left 20%; 
+   
+    
+    
     
 }
 span{
@@ -44,7 +47,7 @@ span{
     margin-top: 30px;
 }
 button{
-    width: 100px;
+    width: 90px;
     height: 40px;
     border-radius: 30px;
     color: white;
@@ -54,7 +57,9 @@ button{
     margin-top: 50px;
     
 }
-
+.firstimage{
+    background-color: yellow;
+}
 
 .intro{
     display: flex;
@@ -181,14 +186,16 @@ h2{
     left: 0;
   }
   .decker1 {
-    width: 200px;  
-    height: 150px;
+    width: 400px;  
+    height: 300px;
     position: relative;
     top: 0;
     left: 0;
   
   }
   .decker2 {
+    width: 400px;  
+    height: 300px;
     position: absolute;
     top: 30px;
     left: 30px;
@@ -204,4 +211,12 @@ h2{
       height: 50vh;
   
   }
-  
+  .footer{
+      background-color: tomato;
+  }
+.sitemap{
+    text-align: center;
+    
+}
+
+
