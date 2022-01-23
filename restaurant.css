@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+    padding: 0pt;
+    margin: 0pt;
+}
+.navbar{
+    height: 10vh;
+
+    
+}
+.logo{
+    
+    float: initial;
+    
+}
+#span{
+    width: 10%;
+}
+
+#burger{
+    font-size:30px ;
+    font-weight: bolder;
+    
+}
+#anchortags{
+    float: right;
+    
+    
+}
+.ul{
+    
+
+    
+}
+li{
+    display: inline;
+    border: black;
+    padding-right: 70px;
+    padding-top: 0pt;
+    font-size: 30px;
+    font-family: sans-serif;
+
+}
+
+.burger{
+    float: right;
+    padding-right:150px ;
+    background-color: yellow;
+    
+    
+    
+    
+}
+.btn{
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    color: whitesmoke;
+    background-color: #F6B400;
+    
+    
+}
+
