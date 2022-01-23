@@ -9,16 +9,17 @@
     align-items: center;
     justify-content: center;
     flex-direction: row;
-
-    
-}
-
-
-.ul{
     
 
     
 }
+
+
+
+    
+
+    
+
 li{
     display: inline;
     border: black;
@@ -29,7 +30,9 @@ li{
 
 }
 
-
+.img1{
+    background-color: yellow;
+}
 .logo{
     
     float: left;
@@ -51,6 +54,8 @@ button{
     margin-top: 50px;
     
 }
+
+
 .intro{
     display: flex;
     align-items: center;
