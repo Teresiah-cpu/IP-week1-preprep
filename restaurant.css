@@ -259,9 +259,15 @@ h2{
 .allrights{
     text-align: left;
     margin-left: 30px;
+    margin-bottom: 0px;
+}
+.icons{
+    text-align: center;
+    
 }
 .designer{
     text-align: right;
     margin-right: 30px;
+    margin-bottom: 30px;
 }
 
